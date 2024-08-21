@@ -166,3 +166,4 @@ echo $(( J bingo.sh countdown.sh project questionnaire.sh 5 + 25 ))
 echo $J
 declare -p
 declare -p J
+declare -p RANDOM

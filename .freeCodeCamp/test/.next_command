@@ -78,3 +78,4 @@ ls --color=auto -l
 --help echo
 --h echo
 echo --help
+man echo

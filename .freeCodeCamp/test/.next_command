@@ -79,3 +79,4 @@ ls --color=auto -l
 --h echo
 echo --help
 man echo
+./questionnaire.sh

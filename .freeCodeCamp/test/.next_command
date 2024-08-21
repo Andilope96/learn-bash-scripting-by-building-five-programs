@@ -84,3 +84,4 @@ man echo
 ./questionnaire.sh
 ./questionnaire.sh
 touch countdown.sh project
+chmod +x countdown.sh

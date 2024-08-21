@@ -117,3 +117,5 @@ help test
 [[ -a countdown.sh ]]
 bad_file.txt
 [[ -a bad_file.txt ]]
+[[ -e countdown.sh ]]
+[[ -x countdown.sh ]]

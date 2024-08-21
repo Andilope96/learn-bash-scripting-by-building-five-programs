@@ -151,3 +151,5 @@ echo $RANDOM
 I=0
 echo $I
 (( I++ ))
+__vsc_prompt_cmd_original
+echo $I

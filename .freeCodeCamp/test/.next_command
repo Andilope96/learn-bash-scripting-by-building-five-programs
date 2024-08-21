@@ -65,3 +65,4 @@ touch questionnaire.sh project
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+./questionnaire.sh

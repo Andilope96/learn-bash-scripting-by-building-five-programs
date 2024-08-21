@@ -86,3 +86,5 @@ man echo
 touch countdown.sh project
 chmod +x countdown.sh
 ./countdown.sh
+__vsc_prompt_cmd_original
+./countdown.sh arg1 arg2 arg3

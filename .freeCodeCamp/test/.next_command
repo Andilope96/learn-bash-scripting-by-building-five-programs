@@ -120,3 +120,4 @@ bad_file.txt
 [[ -e countdown.sh ]]
 [[ -x countdown.sh ]]
 help [[ expression ]]
+[[ -x countdown.sh && 5 -le 4 ]]
